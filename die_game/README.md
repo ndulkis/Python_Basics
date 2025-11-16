@@ -1,6 +1,6 @@
 # Dice Rolling Simulation
 
-A simple Python program that simulates rolling a pair of dice
+A simple Python program that simulates rolling a dice
 
 ## Features
 
