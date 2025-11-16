@@ -15,12 +15,12 @@ A simple Python program that simulates rolling a dice
 ## How to Run
 
 ``` bash
-python die_game.py
+python main.py
 ```
 
 ## Project Structure
 
     die-simulation/
     │
-    ├── dice_game.py
+    ├── main.py
     └── README.md
