@@ -36,7 +36,7 @@ These projects were created to practice:
 -   Working with libraries\
 -   Building small programs from scratch
 
-## ▶How to Run a Project
+## How to Run a Project
 
 Navigate into the project folder and run:
 
