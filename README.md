@@ -7,22 +7,22 @@ functions, and simple logic building.
 
 ## Projects Included
 
--   **Dice Rolling Game** -- *2/10*
--   **Number Guessing Game** -- *3/10*
--   **Rock, Paper, Scissors** -- *3/10*
--   **QR Code Generator** -- *3/10*
--   **Currency Converter** -- *3/10*
--   **Quiz Game** -- *3/10*
--   **Tic Tac Toe Game** -- *4/10*
--   **Todo List Application** -- *4/10*
--   **Simple Text Editor** -- *4/10*
--   **Pig Dice Game** -- *4/10*
--   **Cows and Bulls Game** -- *4/10*
--   **Password Strength Checker** -- *4/10*
--   **Password Generator** -- *5/10*
--   **Word Guessing Game** -- *5/10*
--   **Slot Machine Game** -- *5/10*
--   **ATM Simulation** -- *6/10*
+-   **Dice Rolling Game** 
+-   **Number Guessing Game** 
+-   **Rock, Paper, Scissors** 
+-   **QR Code Generator** 
+-   **Currency Converter** 
+-   **Quiz Game** 
+-   **Tic Tac Toe Game** 
+-   **Todo List Application** 
+-   **Simple Text Editor** 
+-   **Pig Dice Game** 
+-   **Cows and Bulls Game** 
+-   **Password Strength Checker** 
+-   **Password Generator**
+-   **Word Guessing Game** 
+-   **Slot Machine Game**
+-   **ATM Simulation** 
 
 ## Purpose
 
